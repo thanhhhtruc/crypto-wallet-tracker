@@ -515,11 +515,3 @@ The backend is deployed on Render. To deploy your own instance:
 5. Deploy
 
 > **Note**: Render free tier spins down after inactivity. First request may take ~1 minute.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-**Built with ❤️ using NestJS, EdgeDB, and Neo4j**
