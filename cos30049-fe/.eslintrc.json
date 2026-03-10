@@ -1,0 +1,6 @@
+{
+  // Extends the core web vitals configuration for Next.js
+  "extends": ["next/core-web-vitals", 
+              // Extends the TypeScript configuration for Next.js
+              "next/typescript"]
+}
